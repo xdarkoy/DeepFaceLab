@@ -1,4 +1,7 @@
-﻿<table align="center" border="0">
+
+ <b>WORKS WITH GOOGLE COLAB A100</b>
+ 
+ <table align="center" border="0">
 
 <tr><td colspan=2 align="center">
 
